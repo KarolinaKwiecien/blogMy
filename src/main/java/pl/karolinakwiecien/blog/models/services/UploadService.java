@@ -10,9 +10,9 @@ import java.io.IOException;
 
 @Service
 public class UploadService {
-    private final static String LOGIN = "akademiakodu1";
-    private final static String PASSWORD = "akademia";
-    private final static String IP = "5.135.218.27";
+    private final static String LOGIN = "";
+    private final static String PASSWORD = "";
+    private final static String IP = "";
     private final static int PORT = 21;
 
     private FTPClient ftpClient;
